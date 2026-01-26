@@ -88,9 +88,9 @@ class Developer {
 ## 📊 GitHub Statistics
 
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=webpromahdi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=webpromahdi&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=webpromahdi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=webpromahdi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=webpromahdi&theme=tokyonight&hide_border=true" width="60%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=webpromahdi&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
 
