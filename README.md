@@ -92,8 +92,6 @@ class Developer {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=webpromahdi&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=webpromahdi&theme=tokyonight&no-frame=true&row=1&column=7)
-
 </div>
 
 ---
