@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2A24,100:1F7A63&height=180&section=header&text=Mahdi%20Al%20Hasan&fontSize=42&fontColor=E6FFFA&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=180&section=header&text=Mahdi%20Al%20Hasan&fontSize=42&fontColor=E5F3FF&animation=twinkling&fontAlignY=32"/>
 
 <h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=MERN+Stack+Developer+%7C+SaaS+Builder;Building+Real+Solutions+%F0%9F%9A%80;Turning+Ideas+Into+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=600&height=100&lines=MERN+Stack+Developer+%7C+SaaS+Builder;Building+Real+Solutions+%F0%9F%9A%80;Turning+Ideas+Into+Products" alt="Typing SVG" />
 </h3>
 
 <p>
@@ -238,4 +238,4 @@ Build to learn.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2A24,100:1F7A63&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=120&section=footer"/>
