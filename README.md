@@ -52,6 +52,7 @@ class Developer {
 ### **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -67,6 +68,7 @@ class Developer {
 
 ### **Other Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -144,11 +146,12 @@ and scale.
 
 ```yaml
 focus_areas:
+  - Next.js and Server-Side Rendering
+  - Python for backend & automation
   - Advanced TypeScript patterns
   - Scalable backend architecture
   - Real-time features with WebSockets
   - Payment integration (Stripe)
-  - Deploying production-grade apps
 
 approach:
   - Building hands-on projects
