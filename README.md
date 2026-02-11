@@ -3,12 +3,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=180&section=header&text=Mahdi%20Al%20Hasan&fontSize=42&fontColor=E5F3FF&animation=twinkling&fontAlignY=32"/>
 
 <h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=600&height=100&lines=MERN+Stack+Developer+%7C+SaaS+Builder;Building+Real+Solutions+%F0%9F%9A%80;Turning+Ideas+Into+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+(MERN);Frontend+Specialist+%7C+React+%E2%9A%9B%EF%B8%8F;Open+to+Opportunities+%26+Collaboration" alt="Typing SVG" />
 </h3>
 
 <p>
-  <a href="mailto:mahdi.ah.web@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mahdi-ah11"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:webpro.mahdi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/webpro-mahdi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/webpromahdi"><img src="https://img.shields.io/github/followers/webpromahdi?label=Follow&style=for-the-badge&logo=github&color=181717"/></a>
   <img src="https://komarev.com/ghpvc/?username=webpromahdi&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
@@ -24,19 +24,20 @@
 ```typescript
 class Developer {
   name: string = "Mahdi Al Hasan";
-  role: string = "MERN Stack Developer";
+  role: string = "Full Stack Developer (MERN)";
+  education: string = "CS&E — United International University";
   location: string = "Dhaka, Bangladesh 🇧🇩";
 
   currentFocus = {
-    building: "Production-ready SaaS products",
-    learning: "Scalable architecture & TypeScript mastery",
-    approach: "Hands-on projects over passive learning",
+    building: "Full stack web applications with MERN",
+    learning: "Next.js & advanced React patterns",
+    seeking: "Internships, jobs & freelance work",
   };
 
-  codeStyle = {
-    quality: "Clean & maintainable",
-    principle: "Problem-first, solution-second",
-    motto: "Ship fast, iterate faster",
+  strengths = {
+    frontend: "React.js, Tailwind CSS, responsive UI",
+    backend: "Node.js, Express.js, MongoDB",
+    approach: "Problem-first, clean & maintainable code",
   };
 }
 ```
@@ -52,9 +53,7 @@ class Developer {
 ### **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -66,11 +65,10 @@ class Developer {
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
-### **Other Languages**
+### **Auth & Database**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### **Tools & Workflow**
 
@@ -78,6 +76,7 @@ class Developer {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
@@ -100,9 +99,66 @@ class Developer {
 
 <div align="center">
 
-## 💼 What I Do
+## � Featured Projects
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### �️ Bachelor Meal System
+
+Full stack **MERN** application for managing  
+shared meal expenses among roommates.  
+Built with React, Node.js, Express & MongoDB.
+
+**Role:** Solo Developer (Full Stack)
+
+</td>
+<td align="center" width="50%">
+
+### 🩸 Blood Donation System
+
+A team-built platform connecting blood  
+donors with recipients seamlessly.  
+Frontend built with React & Tailwind CSS.
+
+**Role:** Frontend Developer
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🌾 AgriSense
+
+Agricultural data management system  
+with analytics and market insights.  
+Frontend crafted with clean, responsive UI.
+
+**Role:** Frontend Developer
+
+</td>
+<td align="center" width="50%">
+
+### � Recipe Alchemy Nourish
+
+A recipe discovery and meal planning  
+web application with an intuitive  
+and modern user interface.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## � What I Bring
 
 </div>
 
@@ -112,27 +168,27 @@ class Developer {
 
 ### 🎯 Problem Solver
 
-I build solutions that address  
-real-world problems using  
-the MERN stack.
+I enjoy building practical  
+solutions using the MERN stack  
+to tackle real-world challenges.
 
 </td>
 <td align="center" width="33%">
 
-### 🚀 SaaS Focused
+### ⚛️ Frontend Focus
 
-Creating production-ready  
-SaaS applications from  
-concept to deployment.
+Creating responsive, accessible,  
+and polished user interfaces  
+with React & Tailwind CSS.
 
 </td>
 <td align="center" width="33%">
 
 ### 🧹 Clean Coder
 
-Writing maintainable code  
-that's easy to understand  
-and scale.
+Writing readable, maintainable  
+code with clear structure  
+and thoughtful design.
 
 </td>
 </tr>
@@ -142,66 +198,21 @@ and scale.
 
 <div align="center">
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
 ```yaml
-focus_areas:
-  - Next.js and Server-Side Rendering
-  - Python for backend & automation
-  - Advanced TypeScript patterns
-  - Scalable backend architecture
-  - Real-time features with WebSockets
-  - Payment integration (Stripe)
+learning:
+  - Next.js & Server-Side Rendering
+  - PostgreSQL for relational data
+  - Advanced React patterns & hooks
 
 approach:
   - Building hands-on projects
   - Learning through real implementations
-  - Focusing on practical applications
+  - Contributing to team-based projects
 ```
 
 </div>
-
----
-
-<div align="center">
-
-## 💬 Development Philosophy
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### 🎯 Problem First
-
-Start with the problem.  
-Understand it deeply.  
-Then build the solution.
-
-</td>
-<td align="center" width="33%">
-
-### 🚀 Ship & Iterate
-
-Perfect is the enemy of done.  
-Launch, learn, improve,  
-repeat.
-
-</td>
-<td align="center" width="33%">
-
-### 📚 Learn by Doing
-
-Hands-on projects beat  
-passive tutorials every time.  
-Build to learn.
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -211,16 +222,16 @@ Build to learn.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-### Open to collaborations on SaaS projects and interesting MERN stack development opportunities!
+### Open to internships, job opportunities, freelance work, and collaboration on MERN stack projects!
 
-<a href="mailto:mahdi.ah.web@gmail.com">
+<a href="mailto:webpro.mahdi@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&scale=1.5"/>
 </a>
 
 <br><br>
 
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/webpromahdi)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdi-ah11)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/webpro-mahdi)
 
 </div>
 
@@ -228,13 +239,11 @@ Build to learn.
 
 <div align="center">
 
-### 💭 _"Code is like humor. When you have to explain it, it's bad."_
-
 <br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
-**Thanks for visiting! Let's build something amazing together! 🚀**
+**Thanks for visiting my profile! ⭐**
 
 </div>
 
