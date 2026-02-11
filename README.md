@@ -64,6 +64,7 @@ class Developer {
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### **Auth & Database**
 
@@ -123,10 +124,10 @@ Built with React, Node.js, Express & MongoDB.
 ### 🩸 Blood Donation System
 
 A team-built platform connecting blood  
-donors with recipients seamlessly.  
-Frontend built with React & Tailwind CSS.
+donors with recipients efficiently.  
+Built with HTML, CSS, JavaScript, PHP & MySQL.
 
-**Role:** Frontend Developer
+**Role:** Frontend & Backend Integration
 
 </td>
 </tr>
@@ -137,9 +138,9 @@ Frontend built with React & Tailwind CSS.
 
 Agricultural data management system  
 with analytics and market insights.  
-Frontend crafted with clean, responsive UI.
+Built with PHP & MySQL.
 
-**Role:** Frontend Developer
+**Role:** Frontend & Backend Developer
 
 </td>
 <td align="center" width="50%">
