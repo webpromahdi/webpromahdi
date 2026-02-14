@@ -6,8 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+(MERN);Frontend+Specialist+%7C+React+%E2%9A%9B%EF%B8%8F;Open+to+Opportunities+%26+Collaboration" alt="Typing SVG" />
 </h3>
 
-<p>
-  <a href="mailto:webpro.mahdi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p>  <a href="https://webpromahdi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>  <a href="mailto:webpro.mahdi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/webpro-mahdi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/webpromahdi"><img src="https://img.shields.io/github/followers/webpromahdi?label=Follow&style=for-the-badge&logo=github&color=181717"/></a>
   <img src="https://komarev.com/ghpvc/?username=webpromahdi&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
