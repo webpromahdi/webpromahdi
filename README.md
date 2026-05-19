@@ -29,7 +29,7 @@ class Developer {
 
   currentFocus = {
     building: "Full stack web applications with MERN",
-    learning: "Next.js & advanced React patterns",
+    learning: "PostgreSQL advanced data manipulation techniques",
     seeking: "Internships, jobs & freelance work",
   };
 
@@ -61,13 +61,14 @@ class Developer {
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### **Auth & Database**
 
 ![Firebase](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### **Tools & Workflow**
@@ -133,13 +134,11 @@ Built with HTML, CSS, JavaScript, PHP & MySQL.
 <tr>
 <td align="center" width="50%">
 
-### 🌾 AgriSense
+### 🚀 AI Career SaaS App
 
-Agricultural data management system  
-with analytics and market insights.  
-Built with PHP & MySQL.
-
-**Role:** Frontend & Backend Developer
+An AI-powered career platform leveraging OpenRouter & DeepSeek LLM.  
+Features AI resume generation, tailored interview  
+assistance, and ATS analysis to accelerate professional growth.
 
 </td>
 <td align="center" width="50%">
