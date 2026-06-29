@@ -28,8 +28,7 @@ class Developer {
   location: string = "Dhaka, Bangladesh 🇧🇩";
 
   currentFocus = {
-    building: "Full stack web applications with MERN",
-    learning: "PostgreSQL advanced data manipulation techniques",
+    learning: "Prisma, Nextjs",
     seeking: "Internships, jobs & freelance work",
   };
 
