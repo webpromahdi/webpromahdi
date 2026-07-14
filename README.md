@@ -1,10 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=180&section=header&text=Mahdi%20Al%20Hasan&fontSize=42&fontColor=E5F3FF&animation=twinkling&fontAlignY=32"/>
-
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+(MERN);Frontend+Specialist+%7C+React+%E2%9A%9B%EF%B8%8F;Open+to+Opportunities+%26+Collaboration" alt="Typing SVG" />
-</h3>
+<img width="100%" src="./header-banner.svg" alt="Mahdi Al Hasan — Developer | Tech Explorer"/>
 
 <p>  <a href="https://webpromahdi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>  <a href="mailto:webpro.mahdi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/webpro-mahdi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
