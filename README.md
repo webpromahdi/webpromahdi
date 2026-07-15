@@ -126,11 +126,11 @@ to tackle real-world challenges.
 </td>
 <td align="center" width="33%">
 
-### ⚛️ Frontend Focus
+### 🔗 Full Stack Mindset
 
-Creating responsive, accessible,  
-and polished user interfaces  
-with React & Tailwind CSS.
+Connecting solid backend logic  
+(Node.js, Express, MongoDB) with  
+clean, responsive frontends.
 
 </td>
 <td align="center" width="33%">
@@ -172,7 +172,7 @@ approach:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-### Open to internships, job opportunities, freelance work, and collaboration on MERN stack projects!
+### Open to internships, job opportunities, freelance work, and exciting web dev collaborations!
 
 <a href="mailto:webpro.mahdi@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=e6f1ff&scale=1.5"/>
