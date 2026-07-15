@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./header-banner.svg" alt="Mahdi Al Hasan — Developer | Tech Explorer"/>
+<img width="100%" src="./banner.png" alt="Mahdi Al Hasan — Full Stack Web Developer"/>
 
 <p>  <a href="https://webpromahdi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>  <a href="mailto:webpro.mahdi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/webpro-mahdi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -19,19 +19,23 @@
 ```typescript
 class Developer {
   name: string = "Mahdi Al Hasan";
-  role: string = "Full Stack Developer (MERN)";
-  education: string = "CS&E — United International University";
-  location: string = "Dhaka, Bangladesh 🇧🇩";
+  role: string = "Full Stack Web Developer";
+  
+  focus: string = "Building full stack web applications 
+                    with clean, scalable code";
 
-  currentFocus = {
-    learning: "Prisma, Nextjs",
-    seeking: "Internships, jobs & freelance work",
+  currentlyLearning = {
+    tools: "Next.js"
+  };
+
+  openTo = {
+    seeking: "Internships, jobs & freelance work"
   };
 
   strengths = {
     frontend: "React.js, Tailwind CSS, responsive UI",
     backend: "Node.js, Express.js, MongoDB",
-    approach: "Problem-first, clean & maintainable code",
+    approach: "Problem-first, clean & maintainable code"
   };
 }
 ```
@@ -241,4 +245,4 @@ approach:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,100:0a192f&height=120&section=footer"/>
