@@ -2,10 +2,10 @@
 
 <img width="100%" src="./banner.png" alt="Mahdi Al Hasan — Full Stack Web Developer"/>
 
-<p>  <a href="https://webpromahdi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>  <a href="mailto:webpro.mahdi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p>  <a href="https://mahdiah.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=About.me&logoColor=64ffda"/></a>  <a href="mailto:webpro.mahdi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/webpro-mahdi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/webpromahdi"><img src="https://img.shields.io/github/followers/webpromahdi?label=Follow&style=for-the-badge&logo=github&color=181717"/></a>
-  <img src="https://komarev.com/ghpvc/?username=webpromahdi&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <a href="https://github.com/webpromahdi"><img src="https://img.shields.io/github/followers/webpromahdi?label=Follow&style=for-the-badge&logo=github&color=112240"/></a>
+  <img src="https://komarev.com/ghpvc/?username=webpromahdi&label=Profile%20Views&color=64ffda&style=for-the-badge"/>
 </p>
 
 </div>
@@ -109,64 +109,7 @@ class Developer {
 
 <div align="center">
 
-## � Featured Projects
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### �️ Bachelor Meal System
-
-Full stack **MERN** application for managing  
-shared meal expenses among roommates.  
-Built with React, Node.js, Express & MongoDB.
-
-**Role:** Solo Developer (Full Stack)
-
-</td>
-<td align="center" width="50%">
-
-### 🩸 Blood Donation System
-
-A team-built platform connecting blood  
-donors with recipients efficiently.  
-Built with HTML, CSS, JavaScript, PHP & MySQL.
-
-**Role:** Frontend & Backend Integration
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 🚀 AI Career SaaS App
-
-An AI-powered career platform leveraging OpenRouter & DeepSeek LLM.  
-Features AI resume generation, tailored interview  
-assistance, and ATS analysis to accelerate professional growth.
-
-</td>
-<td align="center" width="50%">
-
-### � Recipe Alchemy Nourish
-
-A recipe discovery and meal planning  
-web application with an intuitive  
-and modern user interface.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## � What I Bring
+## 💡 What I Bring
 
 </div>
 
@@ -210,9 +153,8 @@ and thoughtful design.
 
 ```yaml
 learning:
+  - Prisma (ORM for databases)
   - Next.js & Server-Side Rendering
-  - PostgreSQL for relational data
-  - Advanced React patterns & hooks
 
 approach:
   - Building hands-on projects
@@ -233,13 +175,13 @@ approach:
 ### Open to internships, job opportunities, freelance work, and collaboration on MERN stack projects!
 
 <a href="mailto:webpro.mahdi@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&scale=1.5"/>
+  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=e6f1ff&scale=1.5"/>
 </a>
 
 <br><br>
 
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/webpromahdi)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/webpro-mahdi)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-112240?style=for-the-badge&logo=github&logoColor=e6f1ff)](https://github.com/webpromahdi)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=e6f1ff)](https://linkedin.com/in/webpro-mahdi)
 
 </div>
 
