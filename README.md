@@ -1,6 +1,6 @@
-<div align="center">
+﻿<div align="center">
 
-<img width="100%" src="./banner.png" alt="Mahdi Al Hasan — Full Stack Web Developer"/>
+<img width="100%" src="./banner.png" alt="Mahdi Al Hasan â€” Full Stack Web Developer"/>
 
 <p>  <a href="https://mahdiah.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=About.me&logoColor=64ffda"/></a>  <a href="mailto:webpro.mahdi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/webpro-mahdi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -14,7 +14,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 👨‍💻 About Me
+### ðŸ‘¨â€ðŸ’» About Me
 
 ```typescript
 class Developer {
@@ -46,7 +46,7 @@ class Developer {
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## ðŸ› ï¸ Tech Stack
 
 ### **Frontend**
 
@@ -96,12 +96,12 @@ class Developer {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-<img width="48%" height="200" src="https://github-readme-stats.vercel.app/api?username=webpromahdi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="48%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webpromahdi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
+<img src="https://streak-stats.demolab.com?user=webpromahdi&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=webpromahdi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=webpromahdi&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
+
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=webpromahdi&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -109,7 +109,7 @@ class Developer {
 
 <div align="center">
 
-## 💡 What I Bring
+## ðŸ’¡ What I Bring
 
 </div>
 
@@ -117,7 +117,7 @@ class Developer {
 <tr>
 <td align="center" width="33%">
 
-### 🎯 Problem Solver
+### ðŸŽ¯ Problem Solver
 
 I enjoy building practical  
 solutions using the MERN stack  
@@ -126,7 +126,7 @@ to tackle real-world challenges.
 </td>
 <td align="center" width="33%">
 
-### 🔗 Full Stack Mindset
+### ðŸ”— Full Stack Mindset
 
 Connecting solid backend logic  
 (Node.js, Express, MongoDB) with  
@@ -135,7 +135,7 @@ clean, responsive frontends.
 </td>
 <td align="center" width="33%">
 
-### 🧹 Clean Coder
+### ðŸ§¹ Clean Coder
 
 Writing readable, maintainable  
 code with clear structure  
@@ -149,7 +149,7 @@ and thoughtful design.
 
 <div align="center">
 
-## 🌱 Currently Exploring
+## ðŸŒ± Currently Exploring
 
 ```yaml
 learning:
@@ -168,7 +168,7 @@ approach:
 
 <div align="center">
 
-## 🤝 Let's Connect
+## ðŸ¤ Let's Connect
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
@@ -193,7 +193,7 @@ approach:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
-**Thanks for visiting my profile! ⭐**
+**Thanks for visiting my profile! â­**
 
 </div>
 
