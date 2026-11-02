@@ -101,7 +101,11 @@ class Developer {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=webpromahdi&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=webpromahdi&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/webpromahdi/webpromahdi/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/webpromahdi/webpromahdi/output/github-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/webpromahdi/webpromahdi/output/github-snake.svg">
+</picture>
 
 </div>
 
